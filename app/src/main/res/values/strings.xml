@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Syngry Chapter 2</string>
+    <string name="btn_text">Calculate</string>
+    <string name="switch_text">Round up tip?</string>
+    <string name="rb_amazing">Amazing (20%)</string>
+    <string name="rb_good">Good (18%)</string>
+    <string name="rb_ok">OK (15%)</string>
+    <string name="tv_radio_group_title">How was the service?</string>
+    <string name="et_hint">Cost Of Service</string>
+    <string name="tv_button_description">Tip Amount</string>
+</resources>
